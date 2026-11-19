@@ -1,0 +1,10 @@
+# ไฟล์ตั้งค่าหน้าต่างชั่วคราวของ Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# ป้องกันไฟล์ตำรา PDF ขนาดใหญ่เกิน 100MB ค้างตอนอัปโหลด GitHub
+01-Study/pdfs/*.pdf
+
+# ป้องกันไฟล์ไบนารีของ Roblox (ให้ใช้ .rbxlx ที่เป็น XML แทน)
+*.rbxl
